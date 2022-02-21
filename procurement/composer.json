@@ -1,0 +1,6 @@
+{
+    "require": {
+        "vgrem/php-spo": "dev-master",
+        "kartik-v/yii2-widget-depdrop": "dev-master"
+    }
+}
